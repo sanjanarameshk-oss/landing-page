@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background: #3498db;
+    color: white;
+    padding: 20px;
+}
+
+/* Hero section */
+.hero {
+    padding: 50px;
+    background: #f4f4f4;
+}
+
+button {
+    padding: 10px 20px;
+    background: #2ecc71;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Features */
+.features {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 40px;
+}
+
+.box {
+    background: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+    width: 100px;
+}
+
+/* Footer */
+footer {
+    background: #333;
+    color: white;
+    padding: 10px;
+}
